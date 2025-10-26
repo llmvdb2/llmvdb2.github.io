@@ -49,6 +49,8 @@ To ensure your submission is considered, please adhere to the following guidelin
 
 To submit your work, please visit the **[CMT submission website](https://cmt3.research.microsoft.com/LLMVD2026)**.
 
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 ## Questions
 
