@@ -12,13 +12,11 @@ We welcome researchers from the fields of databases, machine learning, and relat
 * Integration of Vector Databases and LLMs
 * Vector Data Management for LLMs
 * Optimizing Vector Databases with LLMs (e.g., Algorithms, Systems, etc.)
-* Vector Retrieval-Augmented Generation (RAG) for Enhancing LLM
 * AI Agents and Agentic RAG
 * Architecture for LLMs + Vector Databases
 * Training, Fine-tuning, and In-context Learning for LLMs + Vector Databases
 * Cost, Efficiency, Accuracy, and Scalability of LLMs + Vector Databases
 * Multimodal Extensions of LLMs + Vector Databases
-* Vector Databases as Semantic Caches for LLMs
 * Security and Privacy for LLMs + Vector Databases
 * Fairness, Accountability, Transparency, Trustworthiness of LLMs + Vector Databases
 * Benchmarking of LLMs + Vector Databases
