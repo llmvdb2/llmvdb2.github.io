@@ -49,14 +49,17 @@ profiles:
 
 ### Program Committee Members
 
-**TBD (To Be Determined)**
-
-<!--
-- Rajesh Bordawekar (IBM, USA)
-- Yixiang Fang (CUHK, Hong Kong, China)
-- Cheng Long (Nanyang Technological University, Singapore)
-- Peter Pietzuch (Imperial College London, UK)
-- Harsha Vardhan Simhadri (Microsoft, USA)
-- Mengzhao Wang (Zhejiang University, China)
-- Wenjie Zhang (The University of New South Wales, Australia)
---> 
+- Cecilia Aguerrebere (Intel Labs)
+- Sihem Amer-Yahia (CNRS, Univ. Grenoble Alpes)
+- Dong Deng (Alibaba)
+- Karima Echihabi (Mohammed VI Polytechnic University)
+- Hakan Ferhatosmanoglu (University of Warwick)
+- Shuang Hao (Beijing Jiaotong University)
+- Jiaheng Lu (University of Helsinki)
+- Yannis Papakonstantinou (Google)
+- Fabio Porto (LNCC)
+- Toni Taipalus (Tampere University)
+- Nesime Tatbul (Intel Labs and MIT)
+- Jianguo Wang (Purdue University)
+- Xiaoying Wang (Microsoft)
+- Mengzhao Wang (Zhejiang University)
