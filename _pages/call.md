@@ -26,7 +26,7 @@ We welcome researchers from the fields of databases, machine learning, and relat
 ## Important Dates
 All deadlines below are 11:59 p.m. PT (Pacific Time).
 
-*   Submission Deadline: January 15, 2026
+*   Submission Deadline: Feb 2, 2026
 *   Acceptance Notification: February 20, 2026
 *   Camera-Ready Version Deadline: March 9, 2026
 
