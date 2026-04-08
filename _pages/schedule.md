@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Schedule
 description:
-nav: false
+nav: true
 nav_order: 2
 ---
 **TBD (To Be Determined)**
