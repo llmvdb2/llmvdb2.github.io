@@ -7,6 +7,7 @@ nav_order: 8
 
 profiles:
   - align: left
+    image: huaxin.png
     content: about_zhx.md
     image_circular: false
   - align: left
