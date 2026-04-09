@@ -21,10 +21,10 @@ nav_order: 2
 | 12:30-2:00 | **Lunch** |
 | **Session 3 (2 hours)** | |
 | 2:00-2:40 | **[Invited Talk - Semantic Query Processing over Relations](/talks/)** <br/> Amine Mhedhbi, École Polytechnique de Montréal |
-| 2:40-3:20 | **[Industry Talk - GaussVector: A Multi-modal Vector Database for the Agentic AI Era](/talks/)** <br/> Huaxin Zhang, Huawei |
-| 3:20-3:32 | **Paper Presentation 1 - VecAlign: Efficient Vector Sequence Alignment for Similarity Search in the Embedding Space** <br/> Zhizhi Wang (Rutgers University), Dong Deng (Rutgers University) |
-| 3:32-3:44 | **Paper Presentation 2 - Performance of Small Language Model Pretraining on FABRIC: An Empirical Study** <br/> Praveen Rao (University of Missouri-Columbia) |
-| 3:44-3:56 | **Paper Presentation 3 - CORE: An LLM-Powered System for Resolution Mining and Retrieval from Conversational Platforms** <br/> Archan Dutta (Aisera), Vinay Raj Sisodiya (Aisera), Hardik Airen (Aisera), Phani Nivarthi (Aisera) |
+| 2:40-3:00 | **[Industry Talk - GaussVector: A Multi-modal Vector Database for the Agentic AI Era](/talks/)** <br/> Huaxin Zhang, Huawei |
+| 3:00-3:20 | **Paper Presentation 1 - VecAlign: Efficient Vector Sequence Alignment for Similarity Search in the Embedding Space** <br/> Zhizhi Wang (Rutgers University), Dong Deng (Rutgers University) |
+| 3:20-3:40 | **Paper Presentation 2 - Performance of Small Language Model Pretraining on FABRIC: An Empirical Study** <br/> Praveen Rao (University of Missouri-Columbia) |
+| 3:40-4:00 | **Paper Presentation 3 - CORE: An LLM-Powered System for Resolution Mining and Retrieval from Conversational Platforms** <br/> Archan Dutta (Aisera), Vinay Raj Sisodiya (Aisera), Hardik Airen (Aisera), Phani Nivarthi (Aisera) |
 | 4:00-4:30 | **Break** |
 | 4:30-6:30 | **Tamer Ozsu Event** |
 | 6:30-7:00 | **Free Time** |
