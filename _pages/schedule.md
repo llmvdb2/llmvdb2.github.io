@@ -12,7 +12,7 @@ nav_order: 2
 | :----------: | :------- |
 | 8:00-9:00 | **Registration** |
 | **Session 1 (1.5 hours)** | |
-| 9:00-9:45 | **Keynote 1** <br/> Guoliang Li |
+| 9:00-9:45 | **[Keynote 1 - AgenticData: An Agentic Data Analytics System](/talks/)** <br/> Guoliang Li, Tsinghua University |
 | 9:45-10:30 | **[Keynote 2 - Data in the Age of AI](/talks/)** <br/> Kavitha Srinivas, IBM |
 | 10:30-11:00 | **Break** |
 | **Session 2 (1.5 hours)** | |
