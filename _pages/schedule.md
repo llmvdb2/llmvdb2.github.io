@@ -16,8 +16,8 @@ nav_order: 2
 | 9:45-10:30 | **[Keynote 2 - Data in the Age of AI](/talks/)** <br/> Kavitha Srinivas, IBM |
 | 10:30-11:00 | **Break** |
 | **Session 2 (1.5 hours)** | |
-| 11:00-11:45 | **Keynote 3** <br/> Aditya Parameswaran |
-| 11:45-12:30 | **Keynote 4** <br/> Dong Deng |
+| 11:00-11:45 | **[Keynote 3 - Agent-first database systems](/talks/)** <br/> Aditya Parameswaran, UC Berkeley |
+| 11:45-12:30 | **[Keynote 4 - LindormVector: A Distributed Vector Engine on a Cloud-Native Multi-Model NoSQL Database](/talks/)** <br/> Dong Deng, Alibaba Cloud |
 | 12:30-2:00 | **Lunch** |
 | **Session 3 (2 hours)** | |
 | 2:00-2:40 | **[Invited Talk - Semantic Query Processing over Relations](/talks/)** <br/> Amine Mhedhbi, École Polytechnique de Montréal |

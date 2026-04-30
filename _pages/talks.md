@@ -22,4 +22,12 @@ profiles:
     image: Kavitha.jpeg
     content: about_sk.md
     image_circular: false
+  - align: left
+    image: dd.jpg
+    content: about_dd.md
+    image_circular: false
+  - align: left
+    image: ap.jpg
+    content: about_ap.md
+    image_circular: false
 ---
